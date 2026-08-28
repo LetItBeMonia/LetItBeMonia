@@ -1,7 +1,7 @@
 ## Hi, I'm Monika ✨
 
 💻 Full-Stack Web Software Developer </br>
-🎓 Master of Business Informatics at Wroclaw University of Economics </br>
+🎓 Master of Business Informatics at Wroclaw University of Business and Economics </br>
 
 ## Tech Stack
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
