@@ -1,6 +1,6 @@
 ## Hi, I'm Monika ✨
 
-💻 Programming, QA and UX & UI enthusiast </br>
+💻 Full-Stack Web Software Developer </br>
 🎓 Master of Business Informatics at Wroclaw University of Economics </br>
 
 ## Tech Stack
