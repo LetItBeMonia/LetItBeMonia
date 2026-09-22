@@ -2,7 +2,7 @@
 
 💻 Full-Stack Web Software Developer </br>
 🎓 Master of Business Informatics at Wroclaw University of Business and Economics </br>
-🌐 My portfolio: <a target="_blank" href="https://monika-kulig.vercel.app">monika-kulig.vercel.app</a>
+🌐 Portfolio: <a target="_blank" href="https://monika-kulig.vercel.app">monika-kulig.vercel.app</a>
 
 
 ## Tech Stack
