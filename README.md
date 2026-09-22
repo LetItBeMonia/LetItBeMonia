@@ -2,6 +2,8 @@
 
 💻 Full-Stack Web Software Developer </br>
 🎓 Master of Business Informatics at Wroclaw University of Business and Economics </br>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a13d6027-52d9-44cf-9b02-291a79730b05" /> <a target="_blank" href="https://monika-kulig.vercel.app">My portfolio: monika-kulig.vercel.app</a>
+
 
 ## Tech Stack
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
