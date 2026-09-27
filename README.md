@@ -1,6 +1,6 @@
 ## Hi, I'm Monika ✨
 
-💻 Full-Stack Web Software Developer </br>
+💻 Full-Stack Web Software Developer based in Poland</br>
 🎓 Master of Business Informatics at Wroclaw University of Business and Economics </br>
 🌐 Portfolio: <a target="_blank" href="https://monika-kulig.vercel.app">monika-kulig.vercel.app</a>
 
