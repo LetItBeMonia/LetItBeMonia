@@ -8,13 +8,13 @@
 My main tech stack is React, TypeScript, Tailwind, Node.js, MongoDB and SQL.</br>
 
 ## 
-![react](https://www.readmecodegen.com/api/social-icon?name=react&size=42)
-![typescript](https://www.readmecodegen.com/api/social-icon?name=typescript&size=42)
-![tailwindcss](https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=42)
-![nodedotjs](https://www.readmecodegen.com/api/social-icon?name=nodedotjs&size=42)
-![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=42)
-![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=42)
-![git](https://www.readmecodegen.com/api/social-icon?name=git&size=42)
+![react](https://www.readmecodegen.com/api/social-icon?name=react&size=32)
+![typescript](https://www.readmecodegen.com/api/social-icon?name=typescript&size=32)
+![tailwindcss](https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=32)
+![nodedotjs](https://www.readmecodegen.com/api/social-icon?name=nodedotjs&size=32)
+![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=32)
+![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=32)
+![git](https://www.readmecodegen.com/api/social-icon?name=git&size=32)
 
 ## Where to find me
 <p><a target="_blank" href="https://www.linkedin.com/in/monika-kulig-553737294" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
