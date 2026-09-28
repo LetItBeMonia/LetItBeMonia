@@ -5,7 +5,7 @@
 
 🌐 Check out my portfolio: <a target="_blank" href="https://monika-kulig.vercel.app">monika-kulig.vercel.app</a></br>
 
-My main tech stack is `React`, `TypeScript` / `JavaScript`, `Tailwind`, `Node.js`, `MongoDB` and `SQL`.</br>
+My main tech stack is `React`, `TypeScript`, `JavaScript`, `Tailwind`, `Node.js`, `MongoDB` and `SQL`.</br>
 
 
 ![react](https://www.readmecodegen.com/api/social-icon?name=react&size=32)
