@@ -14,8 +14,6 @@ My main tech stack is `React`, `TypeScript`, `JavaScript`, `Tailwind CSS`, `Node
 ![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=32)
 ![git](https://www.readmecodegen.com/api/social-icon?name=git&size=32)
 
-I am currently working on TypeScript + Next.js app with SEO implementation.</br>
-
 🌐 Check out my portfolio: <a target="_blank" href="https://monika-kulig.vercel.app">monika-kulig.vercel.app</a></br>
 
 ## Where to find me
