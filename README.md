@@ -3,8 +3,6 @@
 💻 A Full-Stack Web Software Developer based in Poland. 🇵🇱</br>
 🎓 Master of Business Informatics at Wroclaw University of Business and Economics.</br>
 
-🌐 Check out my portfolio: <a target="_blank" href="https://monika-kulig.vercel.app">monika-kulig.vercel.app</a></br>
-
 My main tech stack is `React`, `TypeScript`, `JavaScript`, `Tailwind CSS`, `Node.js`, `MongoDB` and `SQL`.</br>
 
 
@@ -18,6 +16,7 @@ My main tech stack is `React`, `TypeScript`, `JavaScript`, `Tailwind CSS`, `Node
 
 I am currently working on TypeScript + Next.js app with SEO implementation.</br>
 
+🌐 Check out my portfolio: <a target="_blank" href="https://monika-kulig.vercel.app">monika-kulig.vercel.app</a></br>
 
 ## Where to find me
 <p><a target="_blank" href="https://www.linkedin.com/in/monika-kulig-553737294" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
