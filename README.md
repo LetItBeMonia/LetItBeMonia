@@ -3,7 +3,7 @@
 💻 A Full-Stack Web Software Developer based in Poland. 🇵🇱</br>
 🎓 Master of Business Informatics at Wroclaw University of Business and Economics.</br>
 
-My main tech stack is `React`, `TypeScript`, `JavaScript`, `Tailwind CSS`, `Node.js`, `MongoDB` and `SQL`.</br>
+My main tech stack is `React`, `TypeScript`, `JavaScript ES6`, `Tailwind CSS`, `Node.js`, `MongoDB` and `SQL`.</br>
 
 
 ![react](https://www.readmecodegen.com/api/social-icon?name=react&size=32)
