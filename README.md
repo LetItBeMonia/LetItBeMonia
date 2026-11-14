@@ -3,16 +3,18 @@
 💻 A Full-Stack Web Software Developer based in Poland. 🇵🇱</br>
 🎓 Master of Business Informatics at Wroclaw University of Business and Economics.</br>
 
-My main tech stack is `React`, `TypeScript`, `JavaScript ES6`, `Tailwind CSS`, `Node.js`, `MongoDB` and `SQL`.</br>
+My main tech stack is `React`, `TypeScript`, `JavaScript ES6`, `Node.js`, `MongoDB` and `SQL`.</br>
 
 
 ![react](https://www.readmecodegen.com/api/social-icon?name=react&size=32)
 ![typescript](https://www.readmecodegen.com/api/social-icon?name=typescript&size=32)
-![tailwindcss](https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=32)
 ![nodedotjs](https://www.readmecodegen.com/api/social-icon?name=nodedotjs&size=32)
 ![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=32)
-![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=32)
+<img height="32" height="512" alt="image" src="https://github.com/user-attachments/assets/1e0079a8-9b8e-49d8-b560-eb9e9dea64e7" />
 ![git](https://www.readmecodegen.com/api/social-icon?name=git&size=32)
+
+
+
 
 🌐 Check out my portfolio: <a target="_blank" href="https://monika-kulig.vercel.app">monika-kulig.vercel.app</a></br>
 
