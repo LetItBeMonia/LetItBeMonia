@@ -1,6 +1,6 @@
 ## Hi, I'm Monika ✨
 
-💻 A Full-Stack Web Software Developer based in Poland. 🇵🇱</br>
+💻 A Full-Stack Web Developer based in Poland. 🇵🇱</br>
 🎓 Master of Business Informatics at Wroclaw University of Business and Economics.</br>
 
 My main tech stack is `React`, `TypeScript`, `JavaScript ES6`, `Node.js`, `MongoDB` and `SQL`.</br>
