@@ -1,5 +1,7 @@
 ## Hi, I'm Monika ✨
 
+🌐 Check out my portfolio: <a target="_blank" href="https://monika-kulig.vercel.app">monika-kulig.vercel.app</a></br>
+
 💻 A Full-Stack Web Developer based in Poland. 🇵🇱</br>
 🎓 Master of Business Informatics at Wroclaw University of Business and Economics.</br>
 
@@ -15,8 +17,6 @@ My main tech stack is `React`, `TypeScript`, `JavaScript ES6`, `Node.js`, `Mongo
 
 
 
-
-🌐 Check out my portfolio: <a target="_blank" href="https://monika-kulig.vercel.app">monika-kulig.vercel.app</a></br>
 
 ## Where to find me
 <p><a target="_blank" href="https://www.linkedin.com/in/monika-kulig-553737294" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
